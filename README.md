@@ -41,5 +41,20 @@ Carlo Bruscani<br>
 ## Test Stand Models
 Included are the original CAD files for the brushed DC motor test stands. There are three different pressure arms, for putting pressure on a scale at different heights, included. There are also four motor holders of varying sizes included. The stand can be assembled and disassembled many times over and supports movement in both the pull and push directions. Not every motore has it's own perfect motore holder so find the closest match and use a bit of tape to secure the motor. You should also always secure the wires to help prevent motor twist up and wire damage in the case of motor holder slippage.
 
+## Top 10 Non-geared Results
+| Motor | Name | Propeller Name | Max Thrust(g) | Amps | Score(Max Thrust / Amps) |
+| --- | --- | --- | --- | --- | --- |
+| 0: 7x16 w 1mm shaft | 46mm wide | blue 2 none rounded 1mm shaft | 12 | 0.7 | 17.14 |
+| 0: 7x16 w 1mm shaft | 76.3mm wide | black 2 rounded squared 1mm shaft | 16 | 1.1 | 14.55 |
+| 0: 7x16 w 1mm shaft | 55mm wide | red 2 rounded rounded 1mm shaft | 13 | 0.9 | 14.44 |
+| 0: 7x16 w 1mm shaft | 40mm wide | transparent gray 2 flat sharp 1mm shaft | 10 | 0.7 | 14.29 |
+| 0: 7x16 w 1mm shaft | 66mm wide | clear 2 flat squared 1mm shaft | 14 | 1.0 | 14 |
+| 6: 7x20 w 1mm shaft | 46mm wide | blue 2 none rounded 1mm shaft | 20 | 1.5 | 13.33 |
+| 8: 8x16 w 0.8mm shaft | 46mm wide | black 2 rounded rounded 0.8mm shaft | 20 | 1.5 | 13.33 |
+| 0: 7x16 w 1mm shaft | 41mm wide | transparent red 3 flat sharp 1mm shaft | 12 | 0.9 | 13.33 |
+| 2: 8.5x20 w 1mm shaft | 40mm wide | transparent gray 2 flat sharp 1mm shaft | 21 | 1.6 | 13.13 |
+| 0: 7x16 w 1mm shaft | 55mm wide | black 2 flat squared 1mm shaft | 13 | 1.0 | 13 |
+
+
 
 
