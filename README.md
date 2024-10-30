@@ -38,5 +38,8 @@ Carlo Bruscani<br>
 13: 31mm wide, transparent purple 4 flat squared 0.8mm shaft<br>
 14: 140mm wide, black 2 none rounded 1mm shaft<br>
 
+## Test Stand Models
+Included are the original CAD files for the brushed DC motor test stands. There are three different pressure arms, for putting pressure on a scale at different heights, included. There are also four motor holders of varying sizes included. The stand can be assembled and disassembled many times over and supports movement in both the pull and push directions. Not every motore has it's own perfect motore holder so find the closest match and use a bit of tape to secure the motor. You should also always secure the wires to help prevent motor twist up and wire damage in the case of motor holder slippage.
+
 
 
