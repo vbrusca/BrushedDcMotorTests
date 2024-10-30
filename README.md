@@ -11,16 +11,16 @@ Victor G. Brusca<br>
 Carlo Bruscani<br>
 
 ## Brushed DC Motors Tested
-01: 6.0 x 14 w 0.8mm shaft, ~48K<br>
-02: 7.0 x 16 w 0.8mm shaft, ~11K, Geared<br>
-03: 7.0 x 16 w 0.8mm shaft, ~64K<br>
-04: 7.0 x 16 w 1.0mm shaft, ~48K<br>
-05: 7.0 x 20 w 1.0mm shaft, ~64K<br>
-06: 7.0 x 20 w 1.0mm shaft, ~64K<br>
-07: 7.0 x 20 w 1.0mm shaft, ~64K<br>
-08: 8.0 x 16 w 0.8mm shaft, ~55K<br>
-09: 8.0 x 16 w 1.0mm shaft, ~64K<br>
-10: 8.5 x 20 w 1.0mm shaft, ~55K<br>
+01: 6.0mm x 14.0mm w 0.8mm shaft, ~48K<br>
+02: 7.0mm x 16.0mm w 0.8mm shaft, ~11K, Geared<br>
+03: 7.0mm x 16.0mm w 0.8mm shaft, ~64K<br>
+04: 7.0mm x 16.0mm w 1.0mm shaft, ~48K<br>
+05: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+06: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+07: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+08: 8.0mm x 16.0mm w 0.8mm shaft, ~55K<br>
+09: 8.0mm x 16.0mm w 1.0mm shaft, ~64K<br>
+10: 8.5mm x 20.0mm w 1.0mm shaft, ~55K<br>
 
 ## Propellers Tested
 01: 40mm wide, transparent gray 2 flat sharp 1mm shaft<br>
