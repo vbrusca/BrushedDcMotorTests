@@ -55,7 +55,7 @@ Included are the original CAD files for the brushed DC motor test stands. There 
 | 2: 8.5x20 w 1mm shaft | 40mm wide transparent gray 2 flat sharp 1mm shaft | 21 | 1.6 | 13.13 |
 | 0: 7x16 w 1mm shaft | 55mm wide black 2 flat squared 1mm shaft | 13 | 1.0 | 13.00 |
 
-## Top Motor and Propeller Pairs by Score, Max Thrust, and Amps
+## Top 2 Motor/Propeller by Score, Max Thrust, and Amps
 | Motor Name | Propeller Name | Max Thrust(g) | Amps(A) | Score(Max Thrust / Amps) |
 | --- | --- | --- | --- | --- |
 | 1: 7x16 w 0.8mm shaft | 31mm wide transparent gray 3 flat squared 0.8mm shaft | 15 | 1.4 | 10.7143 |
