@@ -11,32 +11,32 @@ Victor G. Brusca<br>
 Carlo Bruscani<br>
 
 ## Brushed DC Motors Tested
-01: 6.0mm x 14.0mm w 0.8mm shaft, ~48K<br>
-02: 7.0mm x 16.0mm w 0.8mm shaft, ~11K, Geared<br>
-03: 7.0mm x 16.0mm w 0.8mm shaft, ~64K<br>
-04: 7.0mm x 16.0mm w 1.0mm shaft, ~48K<br>
-05: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
-06: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
-07: 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
-08: 8.0mm x 16.0mm w 0.8mm shaft, ~55K<br>
-09: 8.0mm x 16.0mm w 1.0mm shaft, ~64K<br>
-10: 8.5mm x 20.0mm w 1.0mm shaft, ~55K<br>
+01) 6.0mm x 14.0mm w 0.8mm shaft, ~48K<br>
+02) 7.0mm x 16.0mm w 0.8mm shaft, ~11K, Geared<br>
+03) 7.0mm x 16.0mm w 0.8mm shaft, ~64K<br>
+04) 7.0mm x 16.0mm w 1.0mm shaft, ~48K<br>
+05) 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+06) 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+07) 7.0mm x 20.0mm w 1.0mm shaft, ~64K<br>
+08) 8.0mm x 16.0mm w 0.8mm shaft, ~55K<br>
+09) 8.0mm x 16.0mm w 1.0mm shaft, ~64K<br>
+10) 8.5mm x 20.0mm w 1.0mm shaft, ~55K<br>
 
 ## Propellers Tested
-01: 40mm wide, transparent gray 2 flat sharp 1mm shaft<br>
-02: 41mm wide, transparent red 3 flat sharp 1mm shaft<br>
-03: 46mm wide, blue 2 none rounded 1mm shaft<br>
-04: 55mm wide, red 2 rounded rounded 1mm shaft<br>
-05: 55mm wide, black 2 flat squared 1mm shaft<br>
-06: 66mm wide, clear 2 flat squared 1mm shaft<br>
-07: 76.3mm wide, transparent orange 2 flat sharp 1mm shaft<br>
-08: 76.3mm wide, black 2 rounded squared 1mm shaft<br>
-09: 77mm wide, black 2 rounded sharp 1mm shaft<br>
-10: 46mm wide, black 2 flat rounded 0.8mm shaft<br>
-11: 46mm wide, black 2 rounded rounded 0.8mm shaft<br>
-12: 31mm wide, transparent gray 3 flat squared 0.8mm shaft<br>
-13: 31mm wide, transparent purple 4 flat squared 0.8mm shaft<br>
-14: 140mm wide, black 2 none rounded 1mm shaft<br>
+01) 40mm wide, transparent gray 2 flat sharp 1mm shaft<br>
+02) 41mm wide, transparent red 3 flat sharp 1mm shaft<br>
+03) 46mm wide, blue 2 none rounded 1mm shaft<br>
+04) 55mm wide, red 2 rounded rounded 1mm shaft<br>
+05) 55mm wide, black 2 flat squared 1mm shaft<br>
+06) 66mm wide, clear 2 flat squared 1mm shaft<br>
+07) 76.3mm wide, transparent orange 2 flat sharp 1mm shaft<br>
+08) 76.3mm wide, black 2 rounded squared 1mm shaft<br>
+09) 77mm wide, black 2 rounded sharp 1mm shaft<br>
+10) 46mm wide, black 2 flat rounded 0.8mm shaft<br>
+11) 46mm wide, black 2 rounded rounded 0.8mm shaft<br>
+12) 31mm wide, transparent gray 3 flat squared 0.8mm shaft<br>
+13) 31mm wide, transparent purple 4 flat squared 0.8mm shaft<br>
+14) 140mm wide, black 2 none rounded 1mm shaft<br>
 
 ## Test Stand Models
 Included are the original CAD files for the brushed DC motor test stands. There are three different pressure arms, for putting pressure on a scale at different heights, included. There are also four motor holders of varying sizes included. The stand can be assembled and disassembled many times over and supports movement in both the pull and push directions. Not every motore has it's own perfect motore holder so find the closest match and use a bit of tape to secure the motor. You should also always secure the wires to help prevent motor twist up and wire damage in the case of motor holder slippage.
