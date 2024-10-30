@@ -7,5 +7,5 @@ You can use the information to find the best brushed DC motor and propeller for 
 Also included in this repository are a set of models that were used to build a thrust test stand for small brushed DC motors.
 
 ## Creators
-Victor G. Brusca
-Carlo Bruscani
+Victor G. Brusca<br>
+Carlo Bruscani<br>
