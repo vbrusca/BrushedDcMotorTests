@@ -83,6 +83,10 @@ Included are the original CAD files for the brushed DC motor test stands. There 
 
 ## Demo of Thrust Test Stand in Use
 ![Thrust test stands used in tests](https://github.com/vbrusca/BrushedDcMotorTests/blob/main/images/trust_test_stand_setup_demo.jpg)
+<br>
+
+Enjoy!!
+
 
 
 
